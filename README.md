@@ -1,2 +1,3 @@
 # spring-cloud-config
-全局配置
+
+spring-cloud-dev.yml version 1.1
